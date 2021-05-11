@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'home' =>'Главный',
+    'regions'=>'Регионы',
+    'map'=>'Kарта',
+    'gallery'=>'Галерея',
+    'contact'=>'Контакт',
+    'language'=>'Язык',
+    'choose_map'=>'Kарта',
+    'choose_list'=>'Список',
+    'subscribe'=>'Подписаться',
+    'enter_email'=>'Введите адрес электронной почты',
+    'subscribe_news'=>'Подписаться',
+    'region'=>'Область',
+    'population'=>'Население',
+    'city'=>'Город',
+    'lorem'=>'Узбекистан',
+    'send_us_msg'=>'Отправить сообщение',
+    'name'=>'Имя',
+    'message'=>'Сообщение',
+    'send'=>'Отправить',
+    'uzbekistan'=>'Узбекистан',
+    'hotels'=>'Отели',
+    'districts'=>'Районы',
+    'details'=>'Подробности',
+    'about_district'=>'О',
+    'district'=>'Округ',
+    'attraction'=>'Место',
+    'email'=>'Электронное письмо',
+    'phone'=>'Телефон',
+    'searchby'=>'Поиск'
+];

@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'home' =>'Bosh Saxifa',
+    'regions'=>'Viloyatlar',
+    'map'=>'Xarita',
+    'gallery'=>'Galareya',
+    'contact'=>'Aloqa',
+    'language'=>'Til',
+    'choose_map'=>'Xarita',
+    'choose_list'=>'Jadval',
+    'subscribe'=>'Obuna Bo\'ling',
+    'enter_email'=>'Emailni kiriting',
+    'subscribe_news'=>'Obuna Bo\'lish',
+    'region'=>'Vioyat',
+    'population'=>'Aholi',
+    'city'=>'Shahar',
+    'lorem'=>'O\'zbekiston',
+    'send_us_msg'=>'Xabar Jo\'natish',
+    'name'=>'Ism',
+    'message'=>'Xabar',
+    'send'=>'Jo\'natish',
+    'uzbekistan'=>'O\'zbekiston',
+    'hotels'=>'Mehmonxonalar',
+    'districts'=>'Tumanlar',
+    'details'=>'Batafsil',
+    'about_district'=>'Haqida',
+    'district'=>'Tuman',
+    'attraction'=>'Joylar',
+    'email'=>'Email',
+    'phone'=>'Telefon',
+    'searchby'=>'Qidirish'
+];

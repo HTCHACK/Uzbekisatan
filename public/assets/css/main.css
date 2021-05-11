@@ -1,0 +1,127 @@
+.mapdiv {
+    width: 70%;
+    margin: auto;
+}
+
+.mapdiv path {
+    fill: #022f5a52;
+    stroke: #2b8302;
+    stroke-width: 2px;
+    transition: fill 0.3s;
+}
+
+
+.mapdiv :hover {
+    fill: rgba(10, 119, 138, 0.26);
+}
+
+.mapdiv h3 {
+    padding-top: 5rem;
+    text-align: center;
+}
+
+.mapdiv a {
+    color: #ffffff;
+    font-size: 16px;
+    transition: 0.3s color ease-out;
+}
+
+.mapdiv h3 a:hover {
+    color: #1fc341;
+}
+
+.active {
+    color: #1fc341;
+}
+
+
+
+.info-msg,
+.success-msg,
+.warning-msg,
+.error-msg {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 3px 3px 3px 3px;
+}
+
+.info-msg {
+    color: #059;
+    background-color: #BEF;
+}
+
+.success-msg {
+    color: #270;
+    background-color: #DFF2BF;
+}
+
+.warning-msg {
+    color: #9F6000;
+    background-color: #FEEFB3;
+}
+
+.error-msg {
+    color: #D8000C;
+    background-color: #FFBABA;
+}
+
+
+
+/* 4.34. Pagination / .pagination
+***********************/
+.page {
+    margin-top: 20px;
+}
+
+.page {
+    margin-bottom: 20px;
+}
+
+.page-item {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #1fc341;
+
+    transition: 0.5s all ease-out;
+}
+
+.page-item:hover {
+    background-color: #1fc341;
+    color: #ffffff;
+}
+
+.page-link {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 4px;
+    border: 1px solid #1fc341;
+    background-color: #1fc341;
+    color: #ffffff;
+    transition: 0.5s all ease-out;
+}
+
+.page-item.active .page-link {
+    background-color: #1fc341;
+    color: #ffffff;
+}
+
+.page-link:hover {
+    border: 1px solid #dddddd;
+}
+
+
+/**********/
+
+.list {
+    padding: 10px 15px 0;
+    background-color: #22355b;
+}

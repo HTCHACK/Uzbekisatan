@@ -1,0 +1,16 @@
+.til{
+    display: inline-block;
+    font-size:15px;
+    padding:1rem;
+    border-radius: 5px;
+    font-weight:bolder;
+}
+
+.tilbolsa{
+    background-color:#00bcd4;
+    color:white;
+}
+
+.tilbolsa:hover{
+    color:#fff;
+}
